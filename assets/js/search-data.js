@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-markdown-문서의-기초-tutorial-정리",
+            },{id: "post-행운동-또간집",
+        
+          title: "행운동 또간집",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Haengun-dong-revisited/";
+          
+        },
+      },{id: "post-markdown-문서의-기초-tutorial-정리",
         
           title: "Markdown 문서의 기초, tutorial 정리",
         
