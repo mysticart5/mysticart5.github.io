@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://dsh.snu.ac.kr/'>인문데이터과학 연계전공</a>. date.
 
 profile:
   align: right
