@@ -6,10 +6,11 @@ subtitle: <a href='https://dsh.snu.ac.kr/'>인문데이터과학개론</a>. 2025
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> 귀여운 낙타 </p>
+    <p> 감자튀김 색이다 </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
