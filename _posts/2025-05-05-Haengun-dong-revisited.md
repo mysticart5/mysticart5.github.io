@@ -5,8 +5,6 @@ date: 2025/5/5 3:11 +0900
 categories: [Food, Restaurants, Korea]
 tags: [Haengun-dong, 또간집, 메뉴추천]
 ---
-
-# 행운동 또간집  
 ### 목차
  * 그란삐아띠
  * 낙원샌드위치
