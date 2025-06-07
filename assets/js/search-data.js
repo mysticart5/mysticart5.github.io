@@ -74,7 +74,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/my-first-jekyll-blog-post/";
+            window.location.href = "/blog/my%E2%80%90first%E2%80%90post";
           
         },
       },{id: "post-a-post-with-plotly-js",
