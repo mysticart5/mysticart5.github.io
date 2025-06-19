@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 단어 빈도 시각화
+title: word-frequency
 permalink: /word-freq/
 nav: true
 nav_order: 4
