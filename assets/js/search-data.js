@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-word-frequency",
-          title: "word-frequency",
+        },{id: "nav-word-freq",
+          title: "word-freq",
           description: "",
           section: "Navigation",
           handler: () => {
