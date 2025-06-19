@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-단어-빈도-시각화",
-          title: "단어 빈도 시각화",
+        },{id: "nav-word-frequency",
+          title: "word-frequency",
           description: "",
           section: "Navigation",
           handler: () => {
