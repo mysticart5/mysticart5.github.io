@@ -11,6 +11,7 @@ nav_order: 4
 <textarea id="textInput" type="text" placeholder="분석할 텍스트를 입력하세요."></textarea>
 <button onclick="updateChart()">제출</button>
 
+
 ## 단어 빈도 시각화
 <div>
     <canvas id="myChart"></canvas>
