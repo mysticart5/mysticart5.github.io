@@ -1,6 +1,6 @@
 ---
 layout: page
-title: word-frequency
+title: word-freq
 permalink: /word-freq/
 nav: true
 nav_order: 4
